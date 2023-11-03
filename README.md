@@ -1,3 +1,4 @@
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rohan Mujumdar</h1>
 <h3 align="center">Fueling ambition with a proficiency in prompt engineering and a depth of knowledge in DSA, DBMS, OOPS, and SQL.</h3>
 <img align="right" alt="Coding" Width="400" src="https://img.freepik.com/premium-vector/vector-flat-illustration-software-developer-cyber-program-security_776789-211.jpg">
