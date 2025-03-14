@@ -1,21 +1,18 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rohan Mujumdar</h1>
-<h3 align="center">Fueling ambition with a proficiency in prompt engineering and a depth of knowledge in DSA, DBMS, OOPS, and SQL.</h3>
+<h3 align="center">Building scalable solutions with a strong foundation in DSA, Java, Spring Boot, and OOPS, while continuously evolving through problem-solving and innovation.</h3>
 <img align="right" alt="Coding" Width="400" src="https://img.freepik.com/premium-vector/vector-flat-illustration-software-developer-cyber-program-security_776789-211.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohanmujumdar&label=Profile%20views&color=0e75b6&style=flat" alt="rohanmujumdar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **DSA, Prompt Engineering, DBMS, SQL**
-
-- 💬 Ask me about **DSA, Prompt Engineering**
+- 🌱 I’m currently learning **DSA, Java, Spring Boot, OOPS and Prompt Engineering**
 
 - 📫 How to reach me **rohanmujumdar2001@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ifHRSgpCFhLSc0jPw94izf0VjpfPRoeU/view?usp=sharing](https://drive.google.com/file/d/1ifHRSgpCFhLSc0jPw94izf0VjpfPRoeU/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
